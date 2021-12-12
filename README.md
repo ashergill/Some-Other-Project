@@ -1,2 +1,2 @@
 # Some-Other-Project
-Another practice project
+Another practice project to practice with using Git and Github
